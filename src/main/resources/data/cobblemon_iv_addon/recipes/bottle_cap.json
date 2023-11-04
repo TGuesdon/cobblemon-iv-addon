@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IDI",
+    "HVH",
+    "III"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "H": {
+      "item": "cobblemon:medicinal_leek"
+    },
+    "V": {
+      "item": "cobblemon:vivichoke"
+    }
+  },
+  "result": {
+    "item": "cobblemon_iv_addon:bottle_cap",
+    "count": 1
+  }
+}
