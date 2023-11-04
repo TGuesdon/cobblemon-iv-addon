@@ -1,0 +1,10 @@
+{
+  "item.cobblemon_iv_addon.bottle_cap": "Capsule d'argent",
+  "item.cobblemon_iv_addon.bottle_cap_white": "Capsule HP",
+  "item.cobblemon_iv_addon.bottle_cap_red": "Capsule ATK",
+  "item.cobblemon_iv_addon.bottle_cap_blue": "Capsule DEF",
+  "item.cobblemon_iv_addon.bottle_cap_cyan": "Capsule S.ATK",
+  "item.cobblemon_iv_addon.bottle_cap_pink": "Capsule S.DEF",
+  "item.cobblemon_iv_addon.bottle_cap_green": "Capsule SPE",
+  "itemGroup.cobblemon_iv_tab": "Cobblemon IV"
+}
