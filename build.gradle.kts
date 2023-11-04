@@ -2,6 +2,7 @@ plugins {
     id("java")
     id("dev.architectury.loom") version("1.2-SNAPSHOT")
     id("architectury-plugin") version("3.4-SNAPSHOT")
+    id("org.jetbrains.kotlin.jvm") version("1.7.0")
 }
 
 

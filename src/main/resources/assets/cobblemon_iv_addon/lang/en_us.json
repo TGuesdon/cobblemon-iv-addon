@@ -1,3 +1,10 @@
 {
-  "item.cobblemon_iv_addon.bottle_cap": "Bottle cap"
+  "item.cobblemon_iv_addon.bottle_cap": "Bottle cap",
+  "item.cobblemon_iv_addon.bottle_cap_white": "HP Bottle cap",
+  "item.cobblemon_iv_addon.bottle_cap_red": "ATK Bottle cap",
+  "item.cobblemon_iv_addon.bottle_cap_blue": "DEF Bottle cap",
+  "item.cobblemon_iv_addon.bottle_cap_cyan": "S.ATK Bottle cap",
+  "item.cobblemon_iv_addon.bottle_cap_pink": "S.DEF Bottle cap",
+  "item.cobblemon_iv_addon.bottle_cap_green": "SPE Bottle cap",
+  "itemGroup.cobblemon_iv_tab": "Cobblemon IV"
 }
