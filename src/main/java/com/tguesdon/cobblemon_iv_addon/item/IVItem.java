@@ -33,6 +33,7 @@ public final class IVItem extends PokemonItem {
             itemStack.setCount(itemStack.getCount() - 1);
         }
         target.setIV(this.stat, 31);
+        player.sendSystemMessage(Component.translatable("cobblemon_iv_addon.sucess.max_iv"));
         return InteractionResult.SUCCESS;
     }
 

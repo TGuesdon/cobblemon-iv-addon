@@ -7,5 +7,6 @@
   "item.cobblemon_iv_addon.bottle_cap_pink": "S.DEF Bottle cap",
   "item.cobblemon_iv_addon.bottle_cap_green": "SPE Bottle cap",
   "itemGroup.cobblemon_iv_tab": "Cobblemon IV",
-  "cobblemon_iv_addon.errors.has_max_iv": "The IV you are trying to max is already at its maximum"
+  "cobblemon_iv_addon.errors.has_max_iv": "The IV you are trying to max is already at its maximum",
+  "cobblemon_iv_addon.sucess.max_iv": "The IV was successfully maxed"
 }
