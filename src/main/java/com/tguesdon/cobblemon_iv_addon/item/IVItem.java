@@ -3,6 +3,7 @@ package com.tguesdon.cobblemon_iv_addon.item;
 import com.cobblemon.mod.common.CobblemonSounds;
 import com.cobblemon.mod.common.api.pokemon.stats.Stat;
 import com.cobblemon.mod.common.pokemon.Pokemon;
+import net.minecraft.network.chat.Component;
 import net.minecraft.world.InteractionHand;
 import net.minecraft.world.InteractionResult;
 import net.minecraft.world.entity.player.Player;
@@ -23,6 +24,7 @@ public final class IVItem extends PokemonItem {
         int currentIV = target.getIvs().getOrDefault(stat);
 
         if(currentIV >= 31) {
+            player.sendSystemMessage(Component.translatable("cobblemon_iv_addon.errors.has_max_iv"));
             return InteractionResult.FAIL;
         }
 

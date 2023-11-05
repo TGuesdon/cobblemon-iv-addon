@@ -6,5 +6,6 @@
   "item.cobblemon_iv_addon.bottle_cap_cyan": "Capsule S.ATK",
   "item.cobblemon_iv_addon.bottle_cap_pink": "Capsule S.DEF",
   "item.cobblemon_iv_addon.bottle_cap_green": "Capsule SPE",
-  "itemGroup.cobblemon_iv_tab": "Cobblemon IV"
+  "itemGroup.cobblemon_iv_tab": "Cobblemon IV",
+  "cobblemon_iv_addon.errors.has_max_iv": "L'IV que vous essayez de modifier est déjà au maximum."
 }
